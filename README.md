@@ -1,1 +1,1 @@
-Used to be
+JavaScript is easy
